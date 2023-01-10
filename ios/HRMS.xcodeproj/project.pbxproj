@@ -12,6 +12,11 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2D971526296D86B50053F23E /* Panton-Trial-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D971525296D86B50053F23E /* Panton-Trial-Bold.ttf */; };
+		2D971528296D86BC0053F23E /* Panton-Trial-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D971527296D86BC0053F23E /* Panton-Trial-Light.ttf */; };
+		2D97152A296D86C40053F23E /* Panton-Trial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D971529296D86C40053F23E /* Panton-Trial-Regular.ttf */; };
+		2D97152C296D86CB0053F23E /* Panton-Trial-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D97152B296D86CB0053F23E /* Panton-Trial-SemiBold.ttf */; };
+		2D97152E296D90670053F23E /* logo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2D97152D296D90670053F23E /* logo.gif */; };
 		7699B88040F8A987B510C191 /* libPods-HRMS-HRMSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-HRMS-HRMSTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -37,6 +42,11 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = HRMS/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = HRMS/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-HRMS-HRMSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HRMS-HRMSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D971525296D86B50053F23E /* Panton-Trial-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Panton-Trial-Bold.ttf"; path = "../assets/fonts/Panton-Trial-Bold.ttf"; sourceTree = "<group>"; };
+		2D971527296D86BC0053F23E /* Panton-Trial-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Panton-Trial-Light.ttf"; path = "../assets/fonts/Panton-Trial-Light.ttf"; sourceTree = "<group>"; };
+		2D971529296D86C40053F23E /* Panton-Trial-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Panton-Trial-Regular.ttf"; path = "../assets/fonts/Panton-Trial-Regular.ttf"; sourceTree = "<group>"; };
+		2D97152B296D86CB0053F23E /* Panton-Trial-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Panton-Trial-SemiBold.ttf"; path = "../assets/fonts/Panton-Trial-SemiBold.ttf"; sourceTree = "<group>"; };
+		2D97152D296D90670053F23E /* logo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = logo.gif; path = ../assets/images/logo.gif; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-HRMS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HRMS.debug.xcconfig"; path = "Target Support Files/Pods-HRMS/Pods-HRMS.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-HRMS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HRMS.release.xcconfig"; path = "Target Support Files/Pods-HRMS/Pods-HRMS.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-HRMS-HRMSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HRMS-HRMSTests.debug.xcconfig"; path = "Target Support Files/Pods-HRMS-HRMSTests/Pods-HRMS-HRMSTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -89,6 +99,11 @@
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				2D971525296D86B50053F23E /* Panton-Trial-Bold.ttf */,
+				2D971527296D86BC0053F23E /* Panton-Trial-Light.ttf */,
+				2D971529296D86C40053F23E /* Panton-Trial-Regular.ttf */,
+				2D97152B296D86CB0053F23E /* Panton-Trial-SemiBold.ttf */,
+				2D97152D296D90670053F23E /* logo.gif */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
@@ -242,6 +257,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D97152A296D86C40053F23E /* Panton-Trial-Regular.ttf in Resources */,
+				2D971528296D86BC0053F23E /* Panton-Trial-Light.ttf in Resources */,
+				2D97152E296D90670053F23E /* logo.gif in Resources */,
+				2D97152C296D86CB0053F23E /* Panton-Trial-SemiBold.ttf in Resources */,
+				2D971526296D86B50053F23E /* Panton-Trial-Bold.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
@@ -562,7 +582,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -634,7 +654,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
